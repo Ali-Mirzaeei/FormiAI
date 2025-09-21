@@ -26,8 +26,8 @@ Designed to showcase dynamic UI and quick customization. 🚀
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/FormiAI.git
-cd FormiAI
+git clone https://github.com/Ali-Mirzaeei/FormiAI.git
+cd ai-configurator
 npm install
 npm run dev
 ```
